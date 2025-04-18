@@ -17,7 +17,7 @@ Este script de Python, diseñado para ejecutarse en Google Colab, permite subir 
 ## 📦 Requisitos
 
 - Python 3.8+
-- Google Colab (ideal para autenticación automática con `userdata`)
+- Google Colab
 - Clave de API de Google Gemini (almacenada en `userdata` como `GOOGLE_API_KEY`)
 
 ---
